@@ -3,7 +3,6 @@
 
 - 🔭 Eu estou trabalhando com angular12+
 - 🌱 Eu estou estudando ReactJs e Next.js
-- 🌱 Atualmente estou trabalhando no repository "ignite-timer"
 <div align="center">
   <a href="https://github.com/lucas-1212">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=lucas-1212&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
